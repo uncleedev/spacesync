@@ -1,0 +1,56 @@
+{
+    "students": [
+        {
+            "studentNo": "22-01383",
+            "firstName": "Jhon Brian",
+            "lastName": "Arce",
+            "email": "arce.jhonbrian@gmail.com",
+            "gender": "Male",
+            "studentStatus": "Regular",
+            "programCode": "BSIT",
+            "enrollments": [
+                {"courseCode": "ITINFOM", "section": "BSIT 3A"},
+                {"courseCode": "ITIASEC1", "section": "BSIT 3A"},
+                {"courseCode": "ITELECT3", "section": "BSIT 3A"},
+                {"courseCode": "ITAPPSDEV", "section": "BSIT 3A"},
+                {"courseCode": "ITNET2", "section": "BSIT 3A"}
+               
+
+            ]
+        },
+        {
+            "studentNo": "22-00700",
+            "firstName": "Jorie",
+            "lastName": "Visaya",
+            "email": "visaya@gmail.com",
+            "gender": "Male",
+            "studentStatus": "Regular",
+            "programCode": "BSIT",
+            "enrollments": [
+               
+                {"courseCode": "ITINFORM", "section": "BSIT 3B"},
+                {"courseCode": "ITELECT3", "section": "BSIT 3B"},
+                {"courseCode": "ITIASEC1", "section": "BSIT 3B"}
+
+            ]
+        },
+        {
+            "studentNo": "22-02199",
+            "firstName": "Jimwell",
+            "lastName": "Bucad ",
+            "email": "bucad@gmail.com",
+            "gender": "Male",
+            "studentStatus": "Regular",
+            "programCode": "BSIT",
+            "enrollments": [
+               
+                {"courseCode": "ITINFORM", "section": "BSIT 3B"},
+                {"courseCode": "ITELECT3", "section": "BSIT 3B"},
+                {"courseCode": "ITIASEC1", "section": "BSIT 3B"}
+
+            ]
+        }
+        
+
+    ]
+}

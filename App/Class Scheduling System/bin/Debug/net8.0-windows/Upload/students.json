@@ -1,0 +1,41 @@
+{
+    "students": [
+        {
+            "studentNo": "22-01383",
+            "firstName": "Jhon Brian",
+            "lastName": "Arce",
+            "email": "arce.jhonbrian@gmail.com",
+            "gender": "Male",
+            "studentStatus": "Regular",
+            "programCode": "BSIT",
+            "enrollments": [
+                {"courseCode": "HUMCI", "section": "BSIT 3C"},
+                {"courseCode": "ITAPPSDEV", "section": "BSIT 3C"},
+                {"courseCode": "ITINFOM", "section": "BSIT 3C"},
+                {"courseCode": "ITNETW2", "section": "BSIT 3C"},
+                {"courseCode": "ITIASEC1", "section": "BSIT 3C"}
+                
+
+            ]
+        },
+        {
+            "studentNo": "22-00700",
+            "firstName": "Jorie",
+            "lastName": "Visaya",
+            "email": "visaya@gmail.com",
+            "gender": "Male",
+            "studentStatus": "Regular",
+            "programCode": "BSIT",
+            "enrollments": [
+                {"courseCode": "HUMCI", "section": "BSIT 3D"},
+                {"courseCode": "ITAPPSDEV", "section": "BSIT 3D"},
+                {"courseCode": "ITINFOM", "section": "BSIT 3D"},
+                {"courseCode": "ITNETW2", "section": "BSIT 3D"},
+                {"courseCode": "ITIASEC1", "section": "BSIT 3D"}
+
+            ]
+        }
+        
+
+    ]
+}

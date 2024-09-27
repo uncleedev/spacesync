@@ -1,0 +1,16 @@
+{
+    "students": [
+        {
+            "studentNo": "",
+            "firstName": "",
+            "lastName": "",
+            "email": "",
+            "gender": "",
+            "studentStatus": "",
+            "programCode": "",
+            "enrollments": [
+                {"courseCode": "", "section": ""}
+            ]
+        }
+    ]
+}
